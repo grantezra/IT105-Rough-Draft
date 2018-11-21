@@ -1,8 +1,19 @@
 # IT105-Rough-Draft
 Grant-IT105 Project For Sub.py: Final product to be run in normal IPython
+
+
+
 Grant-IT105 Project for SUb.ipynb: Meant to be run in Jupyter or another program that can run ipynb
+
+
 Summative Project Referneces: Works cited
+
+
+
 Examples Problems fromBoard Sheet: Board problems a-d from MA153 answered.
+
+
+
 Xscan_171030_13_55_06.pdf: Orginall MA153 board problems with answers.
 
 
